@@ -28,7 +28,7 @@ const App = () => {
                 </a>
                 <div className="content">
                     <a href="/" className="author">
-                        Sam dCi
+                        wladek dCi
                     </a>
                     <div className="metadata">
                         <span className="date">Today at 6:00PM</span>
@@ -44,7 +44,7 @@ const App = () => {
                 </a>
                 <div className="content">
                     <a href="/" className="author">
-                        Sam dCi
+                        edek dCi
                     </a>
                     <div className="metadata">
                         <span className="date">Today at 6:00PM</span>
